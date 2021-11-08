@@ -44,10 +44,12 @@ class MainActivity : AppCompatActivity() {
     }
     var trackFilesArrayList = ArrayList<TrackFiles>()
 
-    //Ông A sửa
+
+    //Bà B sửa
     private fun test(){
-        val A = a;
-        val B = b;
+        val A = b;
+        val B = a;
     }
+    
 
 }
