@@ -44,4 +44,10 @@ class MainActivity : AppCompatActivity() {
     }
     var trackFilesArrayList = ArrayList<TrackFiles>()
 
+    //Bà B sửa
+    private fun test(){
+        val A = b;
+        val B = a;
+    }
+    
 }
